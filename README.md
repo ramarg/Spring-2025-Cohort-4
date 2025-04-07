@@ -12,9 +12,15 @@ pkl - This is a pre-trained XGBoost model saved as `xgb_model.pkl`. Make sure th
 
 **Steps to run the code and web app:**
 i) Run the Milestone2_Model.ipynb, Load the Superstore.csv and make sure the data path is changed
-ii) Save the pre-trained XGBoost model as `xgb_model.pkl` 
+
+ii) Save the pre-trained XGBoost model as `xgb_model.pkl`
+
 iii) Make sure all the file saved in the same directory
+
 iv) Create folder templates and save the index.html inside the folder(Or else app.py won't execute)
+
 v) Open terminal and run this command Streamlit run app.py (Assuming app.py is downloaded in the same working directory)
+
 vi) After the command is executed it will be redirected to a webpage
+
 vii) Give some random inputs and click on predict result
