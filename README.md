@@ -1,4 +1,4 @@
-# Spring-2025-Cohort-4
+# AI-Powered Marketing Strategy Optimization for E-Commerce Businesses
 **Product Vision:**
 
 The goal of this project is to create an AI-based solution that assists businesses in optimizing their marketing strategy based on historical sales data. Through analysis of trends across customer groups, product groups, and promotion campaigns, we will assist businesses in gaining predictive insights that will allow them to make better marketing decisions, improve sales, and improve profitability. 
@@ -26,6 +26,8 @@ ii) Save the pre-trained XGBoost model as `xgb_model.pkl`
 iii) Make sure all the file saved in the same directory
 
 iv) Create folder templates and save the index.html inside the folder(Or else app.py won't execute)
+
+
 
 v) Open terminal and run this command Streamlit run app.py (Assuming app.py is downloaded in the same working directory)
 
